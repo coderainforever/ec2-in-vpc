@@ -1,6 +1,6 @@
-# ec2-in-vpc
-Launch an EC2 Instance in a Virtual Private Cloud (VPC)
-Objectives
+# Launch an EC2 Instance in a Virtual Private Cloud (VPC)
+
+## Objectives
 
 Successfully complete this lab by achieving the following learning objectives:
 
